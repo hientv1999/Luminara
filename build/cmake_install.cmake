@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/HIEN VAN TO/Documents/Pico-v1.5.1/pico-examples/SOL-DN
+# Install script for directory: C:/Users/HIEN VAN TO/Documents/Pico-v1.5.1/pico-examples/Luminara
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
